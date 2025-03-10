@@ -9,6 +9,7 @@ Mr.Q 是個 AI智能助理，我們能透過 MR.Q 與 CNC加工機台互動，�
 3. 使用 MVC 架構完成專案開發
 4. 使用 Azure OPENAI, STT, TTS 等多項智能技術，完成全語音互動流程
 5. 使用 RAG 技術，加入專業知識，使 GPT 能夠理解並依照指令回答我們所需要的內容
+6. 使用 C# 封裝第三方 CNC工具包 API，製作動態連結庫(DLL)，供 Python 調用
 
 ## Installation
 
